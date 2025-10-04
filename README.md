@@ -4,12 +4,12 @@
  
 # AIM:
  To control the status of the given lamp by using two–way switches. 
+ 
 # APPARATUS REQUIRED:
 S. No.
 Name of the apparatus	
 Range / Type	
 # Quantity
-~~~
 1	Incandescent Lamp	60W	1 No.
 2	Lamp Holder	Pendent Type	1 No.
 3	SPDT Switch	230V,5A	2 Nos
@@ -17,7 +17,7 @@ Range / Type
 5	P.V.C Pipe	1/4"	As per requirement
 6	Wooden Board	-	1 No.
 7	Round block	-	1 No.
-~~~
+
 
 
 # THEORY:
@@ -39,11 +39,14 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 # CIRCUIT DIAGRAM: 
+
 a) SPDT(XNOR):
 <img width="775" height="395" alt="image" src="https://github.com/user-attachments/assets/a7493e2b-2752-453d-846a-9d38f0a31278" />
 
+
 b) SPDT(XOR):
 <img width="798" height="402" alt="image" src="https://github.com/user-attachments/assets/1b40869c-979c-419f-be8e-8363f9eded2c" />
+
 
 a) SPDT(XNOR):
 ![WhatsApp Image 2025-10-04 at 1 22 14 PM](https://github.com/user-attachments/assets/0e4add3c-b1f3-4093-8937-5a8a30a4e9f3)
