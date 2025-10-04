@@ -40,11 +40,13 @@ switch2.
 
 # CIRCUIT DIAGRAM: 
 
-a) SPDT(XNOR):
+a)SPDT(XNOR):
+
 <img width="775" height="395" alt="image" src="https://github.com/user-attachments/assets/a7493e2b-2752-453d-846a-9d38f0a31278" />
 
 
-b) SPDT(XOR):
+b)SPDT(XOR):
+
 <img width="798" height="402" alt="image" src="https://github.com/user-attachments/assets/1b40869c-979c-419f-be8e-8363f9eded2c" />
 
 
